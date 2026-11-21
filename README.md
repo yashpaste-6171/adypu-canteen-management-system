@@ -24,6 +24,7 @@ python app.py
 ```
 
 Open http://127.0.0.1:5000
+OPEN :- https://adypu-canteen.onrender.com
 
 ## 3. Demo administrator
  Email: `admin@adypucanteen.local`
